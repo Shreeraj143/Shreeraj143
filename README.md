@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeraj143&label=Profile%20views&color=0e75b6&style=flat" alt="shreeraj143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeraj143" alt="shreeraj143" /></a> </p>
-
 - 🔭 I’m currently working on [SelfHelpYelpCamp](https://selfhelpyelpcamp.onrender.com)
 
 - 🌱 I’m currently learning **ReactJS**
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeraj143&show_icons=true&locale=en" alt="shreeraj143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeraj143&" alt="shreeraj143" /></p>
-
