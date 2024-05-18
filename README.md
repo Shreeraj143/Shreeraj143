@@ -9,7 +9,7 @@
 
 - 👨‍💻 My recent work  [Real Estate Website](https://mern-real-estate-21oi.onrender.com)
 
-- 👯 Developed  [Comfy Store Website](https://github.com/Shreeraj143/Comfy-Store) 
+- 👯 Design and developed  [Comfy Store Website](https://github.com/Shreeraj143/Comfy-Store) 
 
 - 🔭 All of my projects are available at [https://github.com/Shreeraj143](https://github.com/Shreeraj143)
 
