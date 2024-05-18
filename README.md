@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeraj143&label=Profile%20views&color=0e75b6&style=flat" alt="shreeraj143" /> </p>
 
-- 🔭 I’m currently working on [SelfHelpYelpCamp](https://selfhelpyelpcamp.onrender.com)
 
-- 🌱 I’m currently learning **ReactJS**
 
-- 📝 I regularly write articles on [https://medium.com/@shreerajs123](https://medium.com/@shreerajs123)
+- 🌱 I’m currently learning **PHP**
+
+- 👨‍💻 My recent work  [Real Estate Website](https://mern-real-estate-21oi.onrender.com)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shreeraj-shinde-3aa0bb1bb/**
 
