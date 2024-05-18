@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 Currently learning **PHP**
 
 - 👨‍💻 My recent work  [Real Estate Website](https://mern-real-estate-21oi.onrender.com)
 
-- 👯 Design and developed  [Comfy Store Website](https://github.com/Shreeraj143/Comfy-Store) 
+- 👯 Designed and developed  [Comfy Store Website](https://github.com/Shreeraj143/Comfy-Store) 
 
 - 🔭 All of my projects are available at [https://github.com/Shreeraj143](https://github.com/Shreeraj143)
 
